@@ -30,7 +30,7 @@
 	<div class="container">
 		<a class="navbar-brand" href="/">
 			<img
-				src="/src/images/tech.jpeg"
+				src="tech.jpeg"
 				alt="TechConf Logo"
 				width="40"
 				height="40"
