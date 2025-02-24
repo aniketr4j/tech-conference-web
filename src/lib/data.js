@@ -2,70 +2,70 @@ export const speakers = [
 	{
 		name: 'Alok Nair',
 		title: 'AI Specialist',
-		image: '/src/images/alok.jpg',
+		image: 'alok.jpg',
 		bio: 'An AI researcher with expertise in deep learning and generative AI, Alok has worked on cutting-edge projects in computer vision and NLP.',
 		keynote: true
 	},
 	{
 		name: 'John Rossman',
 		title: 'Blockchain Expert',
-		image: '/src/images/Aurum.jpg',
+		image: 'Aurum.jpg',
 		bio: 'John is a blockchain strategist with over 15 years of experience, focusing on decentralized finance (DeFi) and smart contract security.',
 		keynote: true
 	},
 	{
 		name: 'Peter Diamandis',
 		title: 'Cybersecurity Analyst',
-		image: '/src/images/Peter.jpg',
+		image: 'Peter.jpg',
 		bio: 'A thought leader in cybersecurity, Peter has advised global organizations on threat intelligence, ethical hacking, and risk mitigation strategies.',
 		keynote: true
 	},
 	{
 		name: 'Josh Linkner',
 		title: 'Cybersecurity Analyst',
-		image: '/src/images/Josh.jpg',
+		image: 'Josh.jpg',
 		bio: 'Josh specializes in network security and has led cybersecurity initiatives in Fortune 500 companies, helping to safeguard critical infrastructure.',
 		keynote: true
 	},
 	{
 		name: 'Adarsh B U',
 		title: 'Manufacturing & Energy Domain Solution Consultant at Happiest Minds Technologies',
-		image: '/src/images/adarsh.jpeg',
+		image: 'adarsh.jpeg',
 		bio: 'With expertise in digital transformation, Adarsh focuses on integrating smart technologies into energy and manufacturing systems.',
 		keynote: true
 	},
 	{
 		name: 'Raja Manickam',
 		title: 'Founder, IVP Semiconductor India PVT. LTD.',
-		image: '/src/images/manickam.jpeg',
+		image: 'manickam.jpeg',
 		bio: 'Raja is a pioneer in semiconductor technology, with a mission to advance India’s capabilities in chip design and microelectronics.',
 		keynote: true
 	},
 	{
 		name: 'Dr. Satya Gupta',
 		title: 'President, VLSI Society Of India & CII National Committee Member',
-		image: '/src/images/satya.jpeg',
+		image: 'satya.jpeg',
 		bio: 'Dr. Gupta is a visionary in the field of VLSI design, actively contributing to policy-making and semiconductor industry growth in India.',
 		keynote: true
 	},
 	{
 		name: 'Kaushal Kukkar',
 		title: 'Founder and CEO, AmIMotion',
-		image: '/src/images/kaushal.jpeg',
+		image: 'kaushal.jpeg',
 		bio: 'Kaushal is an innovator in motion control technologies, leading advancements in robotics and automation for industrial applications.',
 		keynote: true
 	},
 	{
 		name: 'Narang N Kishor',
 		title: 'Mentor & Principal Design Architect, Narnix Technolabs Pvt. Ltd.',
-		image: '/src/images/narang.jpeg',
+		image: 'narang.jpeg',
 		bio: 'A veteran in systems architecture, Narang has shaped the IoT and smart grid landscape with his in-depth knowledge of embedded systems.',
 		keynote: true
 	},
 	{
 		name: 'Dr. Vishnu Srivastava',
 		title: 'Ex Emeritus Scientist (CSIR) & Ex Emeritus Professor (AcSIR), CSIR-CEERI',
-		image: '/src/images/vishnu.jpeg',
+		image: 'vishnu.jpeg',
 		bio: 'Dr. Srivastava has contributed significantly to microwave engineering and high-power electronics, mentoring the next generation of scientists.',
 		keynote: true
 	}
@@ -169,121 +169,121 @@ export const sponsors = [
 	{
 		name: 'AWS',
 		area: 'Cloud Computing',
-		logo: '/src/images/AWS.jpeg',
+		logo: 'AWS.jpeg',
 		link: 'https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjb4Ozj5duLAxUk5hYFHel0BR0YABAAGgJ0bA&ae=2&co=1&gclid=Cj0KCQiAq-u9BhCjARIsANLj-s3dcFPIw1632sqY-h7P947nkOaUP7XSIlAGUQKHR9Bz0jc4e7QCbfoaAjYFEALw_wcB&ohost=www.google.com&cid=CAESVuD28NoSwe5Y_bwQeYdXPMwKsdKXXsdQ-u6tmeGMEQWV4u5tuHK0D8Mje3odZXY3zW1XvE93AWPdyNfZeolHT_5t5yZW6D-mXjdTpwXLJs7thnn5YCDd&sig=AOD64_2h0Ddkh70bkTVD1XXAWDz_RWw-jQ&q&adurl&ved=2ahUKEwi3uefj5duLAxVDk68BHSQZF_EQ0Qx6BAgIEAE'
 	},
 	{
 		name: 'Microsoft',
 		area: 'Cloud & AI Solutions',
-		logo: '/src/images/Microsoft.jpeg',
+		logo: 'Microsoft.jpeg',
 		link: 'https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiLwcaB59uLAxW7XQ8CHWNxNlwYABADGgJ0Yg&co=1&gclid=Cj0KCQiAq-u9BhCjARIsANLj-s0NLrGBZKjZtjucwb1sM76k4UbO_tR_Rr1oWmE1yOBk0xOJuqsPvDoaAhM7EALw_wcB&ohost=www.google.com&cid=CAESVuD2tFpeosFllVXmlmYuFWYH6xl1W_CtP71MWD900AcRLJoapmenM5I6yCTJ7CQOM0X54OlE1HJuPGRcLWqNT6rBmsRpjrkXjqdW1DjOmALIehdpTZSd&sig=AOD64_0sr30J4l4qUBXh9GGB1D_os7GVeg&q&adurl&ved=2ahUKEwiu-8CB59uLAxW2SfUHHaPjADAQ0Qx6BAgLEAE'
 	},
 	{
 		name: 'Github',
 		area: 'Software Development',
-		logo: '/src/images/github.jpeg',
+		logo: 'github.jpeg',
 		link: 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/&ved=2ahUKEwjuusCJ59uLAxUqka8BHUm-HBIQFnoECAoQAQ&usg=AOvVaw38IHvcyBra8HGhmSxvlCGw'
 	},
 	{
 		name: 'Oracle',
 		area: 'Cloud & Databases',
-		logo: '/src/images/oracle.jpeg',
+		logo: 'oracle.jpeg',
 		link: 'https://www.oracle.com/in/'
 	},
 	{
 		name: 'Samsung',
 		area: 'Electronics & AI',
-		logo: '/src/images/samsung.png',
+		logo: 'samsung.png',
 		link: 'https://www.samsung.com/in/smartphones/galaxy-s25/buy/?cid=in_pd_ppc_google_im-all-all-all-dtc_sales_samsung-allproducts-all-2023_eshop-text-rlsa_01jan2023-na_1ur-501334l-2025-eshop-bau-rlsa-cpc_pfm-732652957617-1032431191-54537502041-kwd-10020211-samsung-b--g--&gad_source=1&gbraid=0AAAAADm5iQUWjVPpxkHczKtI5pCay10P_&gclid=Cj0KCQiAq-u9BhCjARIsANLj-s1nqJc1pWxzcwHeelhOLO1XOCsy93e5KXLmTc_NCxQh1fGgRNtEzOwaAkHYEALw_wcB'
 	},
 	{
 		name: 'Cisco',
 		area: 'Networking & Security',
-		logo: '/src/images/cisco.jpeg',
+		logo: 'cisco.jpeg',
 		link: 'https://www.cisco.com/site/in/en/index.html'
 	},
 	{
 		name: 'Google Cloud',
 		area: 'Cloud Computing',
-		logo: '/src/images/google.png',
+		logo: 'google.png',
 		link: 'https://cloud.google.com/free?utm_source=google&utm_medium=cpc&utm_campaign=japac-IN-all-en-dr-BKWS-all-core-athena-EXA-dr-1710102&utm_content=text-ad-none-none-DEV_c-CRE_644159077394-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+-GCP-General-core+brand-main-KWID_43700081457069024-kwd-6458750523&userloc_9061991-network_g&utm_term=KW_google+cloud&gclsrc=aw.ds&gad_source=1&gclid=Cj0KCQiAq-u9BhCjARIsANLj-s0dlUuLLtL1MG2h1ZXOov5FxSyRHLy92Zv609ojIchSZ3jOOvigpxwaAp-_EALw_wcB'
 	},
 	{
 		name: 'Bosch',
 		area: 'Automation & IoT',
-		logo: '/src/images/bosch.jpeg',
+		logo: 'bosch.jpeg',
 		link: 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bosch.com/&ved=2ahUKEwiphNnA59uLAxV0dfUHHdlhHMAQFnoECBQQAQ&usg=AOvVaw3oifmRtB6XGY4EOoOq9s3X'
 	},
 	{
 		name: 'Adobe',
 		area: 'Digital Solutions',
-		logo: '/src/images/adobe.png',
+		logo: 'adobe.png',
 		link: 'https://www.adobe.com/in/'
 	},
 	{
 		name: 'Siemens',
 		area: 'Automation & IoT',
-		logo: '/src/images/siemens.png',
+		logo: 'siemens.png',
 		link: 'https://www.siemens.com/in/en.html?acz=1&gad_source=1&gbraid=0AAAAADEuPPMQ9CF8I98lRS3ttA1Q6K4td&gclid=Cj0KCQiAq-u9BhCjARIsANLj-s09oXOp_2-T5BOO23SNK-dL1dAcME7R4yK6p0wa9ssa7ZMPhMnFtQAaAi1iEALw_wcB'
 	},
 	{
 		name: 'OpenAI',
 		area: 'AI & Research',
-		logo: '/src/images/open.jpeg',
+		logo: 'open.jpeg',
 		link: 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://openai.com/&ved=2ahUKEwjMj9Lo59uLAxVSi68BHbSvA8IQFnoECAkQAQ&usg=AOvVaw0428uXC88P9g34t6DemBOv'
 	},
 	{
 		name: 'IBM Security',
 		area: 'Cybersecurity',
-		logo: '/src/images/ibm.jpeg',
+		logo: 'ibm.jpeg',
 		link: 'https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ibm.com/services&ved=2ahUKEwisudPv59uLAxX6kq8BHVUcB4UQFnoECBgQAQ&usg=AOvVaw0-CU9bMHicd3fHSnOLryPb'
 	},
 	{
 		name: 'Intel',
 		area: 'Semiconductor & AI',
-		logo: '/src/images/intel.jpeg',
+		logo: 'intel.jpeg',
 		link: 'https://www.intel.com/content/www/us/en/homepage.html'
 	},
 	{
 		name: 'NVIDIA',
 		area: 'AI & Graphics',
-		logo: '/src/images/nvidia.jpeg',
+		logo: 'nvidia.jpeg',
 		link: 'https://www.nvidia.com/en-in/'
 	},
 	{
 		name: 'Tesla',
 		area: 'Green Energy & AI',
-		logo: '/src/images/tesla.jpeg',
+		logo: 'tesla.jpeg',
 		link: 'https://www.tesla.com'
 	},
 	{
 		name: 'DeepMind',
 		area: 'AI Research',
-		logo: '/src/images/deepmind.jpeg',
+		logo: 'deepmind.jpeg',
 		link: 'https://deepmind.google'
 	},
 	{
 		name: 'Snowflake',
 		area: 'Data Analytics',
-		logo: '/src/images/snowflake.jpeg',
+		logo: 'snowflake.jpeg',
 		link: 'https://www.snowflake.com/en/'
 	},
 	{
 		name: 'SAP',
 		area: 'Enterprise Software',
-		logo: '/src/images/sap.jpeg',
+		logo: 'sap.jpeg',
 		link: 'https://www.sap.com/events/business-unleashed.html?campaigncode=crm-yd25-sbs-2978548&source=ppc-1apj-googleads--22127866318-173101765083-events_business%20unleashed-x-x-aam&gclsrc=aw.ds&gad_source=1&gbraid=0AAAAAoTWXrCCH3VJookRzn9lCFBE68UIQ&gclid=Cj0KCQiAq-u9BhCjARIsANLj-s18KM1RL5Ekyo-ZL6fv8thR0CZ_XdzlFK_wOPz2LYQGifeh8nz5qTsaArI5EALw_wcB'
 	},
 	{
 		name: 'Cloudflare',
 		area: 'Web Security',
-		logo: '/src/images/cloudflare.png',
+		logo: 'cloudflare.png',
 		link: 'https://www.cloudflare.com/en-in/'
 	},
 	{
 		name: 'Schneider Electric',
 		area: 'Smart Cities & Energy',
-		logo: '/src/images/electric.jpeg',
+		logo: 'electric.jpeg',
 		link: 'https://www.se.com/ww/en/'
 	}
 ];
