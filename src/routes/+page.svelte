@@ -43,12 +43,12 @@
 			<h2 class="text-center mb-4">Keynote Speakers</h2>
 			<div class="row">
 				{#each [
-					{ name: 'Adarsh B U', title: 'Manufacturing & Energy Domain Solution Consultant at Happiest Minds Technologies', img: 'src/images/adarsh.jpeg' },
-					{ name: 'Raja Manickam', title: 'Founder, IVP Semiconductor India PVT. LTD.', img: 'src/images/manickam.jpeg' },
-					{ name: 'Dr. Satya Gupta', title: 'President, VLSI Society Of India & CII National Committee Member', img: 'src/images/satya.jpeg' },
-					{ name: 'Kaushal Kukkar', title: 'Founder and CEO, AmIMotion', img: 'src/images/kaushal.jpeg' },
-					{ name: 'Narang N Kishor', title: 'Mentor & Principal Design Architect, Narnix Technolabs Pvt. Ltd.', img: 'src/images/narang.jpeg' },
-					{ name: 'Dr. Vishnu Srivastava', title: 'Ex Emeritus Scientist (CSIR) & Ex Emeritus Professor (AcSIR), CSIR-CEERI', img: 'src/images/vishnu.jpeg' }
+					{ name: 'Adarsh B U', title: 'Manufacturing & Energy Domain Solution Consultant at Happiest Minds Technologies', img: 'images/adarsh.jpeg' },
+					{ name: 'Raja Manickam', title: 'Founder, IVP Semiconductor India PVT. LTD.', img: 'images/manickam.jpeg' },
+					{ name: 'Dr. Satya Gupta', title: 'President, VLSI Society Of India & CII National Committee Member', img: 'images/satya.jpeg' },
+					{ name: 'Kaushal Kukkar', title: 'Founder and CEO, AmIMotion', img: 'images/kaushal.jpeg' },
+					{ name: 'Narang N Kishor', title: 'Mentor & Principal Design Architect, Narnix Technolabs Pvt. Ltd.', img: 'images/narang.jpeg' },
+					{ name: 'Dr. Vishnu Srivastava', title: 'Ex Emeritus Scientist (CSIR) & Ex Emeritus Professor (AcSIR), CSIR-CEERI', img: 'images/vishnu.jpeg' }
 				] as speaker}
 					<div class="col-md-4 d-flex align-items-stretch">
 						<div class="card text-center">
