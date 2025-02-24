@@ -13,16 +13,50 @@ A **modern, fully responsive** Tech Conference website built using **SvelteKit**
 
 
 ## 🛠️ Setup & Installation
-### 1️⃣ Clone the repository
+
+### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/aniketr4j/tech-conference-website.git
+git clone https://github.com/aniketr4j/tech-conference-web.git
 cd tech-conference-website
+```
 
-2. Install Dependencies
-   npm install
+### 2️⃣ Install Dependencies
+```sh
+npm install
+```
 
-   Run the development server
-   npm run dev
+### 3️⃣ Run the Development Server
+```sh
+npm run dev
+```
+This will start the development server. Open `http://localhost:5173/` in your browser.
 
-   Build for production 
-   npm run build
+### 4️⃣ Build for Production
+```sh
+npm run build
+```
+This command creates an optimized production build in the `build/` directory.
+
+
+## 🎯 Create a New SvelteKit Project (If Starting from Scratch)
+If you want to create a similar project from the beginning, use the following commands:
+
+```sh
+npx sv create tech-conference-website
+cd tech-conference-website
+npm install
+npm run dev
+```
+
+## 🎨 Installing Bootstrap
+Since **Sveltestrap** is not compatible with the latest SvelteKit version, I have used **Bootstrap** directly.
+
+To install Bootstrap, run:
+```sh
+npm install bootstrap
+```
+
+Then, import Bootstrap CSS in `src/app.html`:
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+```
